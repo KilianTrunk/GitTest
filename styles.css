@@ -300,9 +300,9 @@ p.last-layer {
     float: right;
     display: block;
   }
-}
-
-@media screen and (max-width: 770px) {
+  .burgercek {
+    height: 20px;
+  }
   .topnav.responsive {
     position: relative;
   }
